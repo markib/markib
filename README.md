@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [[https://markib.github.io/](https://markib.github.io/markib/)]([https://markib.github.io/](https://markib.github.io/markib/))
 
-- 💬 Ask me about **Laravel,React,PHP,Postgres,AI Agents**
+- 💬 Ask me about **Laravel,React,PHP,Python,Postgres,AI Agents**
 
 - 📫 How to reach me **emarkib@gmail.com**
 
