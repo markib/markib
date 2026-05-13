@@ -1,11 +1,11 @@
 ﻿<h1 align="center">Hi 👋, I'm Bikram Maharjan</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **AI Agents**
 
 - 👨‍💻 All of my projects are available at [[https://markib.github.io/](https://markib.github.io/markib/)]([https://markib.github.io/](https://markib.github.io/markib/))
 
-- 💬 Ask me about **Laravel,React,PHP,Postgres**
+- 💬 Ask me about **Laravel,React,PHP,Postgres,AI Agents**
 
 - 📫 How to reach me **emarkib@gmail.com**
 
